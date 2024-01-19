@@ -1,0 +1,114 @@
+
+[Error_Handling] :: Uncaught Exception/Catch
+TypeError: Cannot read properties of undefined (reading 'delete')
+uncaughtException
+26/1/2023, 12:31:33 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Uncaught Exception/Catch
+TypeError: channel.isText is not a function
+uncaughtException
+29/9/2023, 9:39:37 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Uncaught Exception/Catch
+TypeError: Cannot read properties of undefined (reading 'delete')
+uncaughtException
+30/9/2023, 4:57:01 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Uncaught Exception/Catch
+TypeError: Cannot read properties of undefined (reading 'delete')
+uncaughtException
+30/9/2023, 4:57:01 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Uncaught Exception/Catch
+TypeError: Cannot read properties of undefined (reading 'send')
+uncaughtException
+30/9/2023, 4:57:01 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Uncaught Exception/Catch
+TypeError: Cannot read properties of undefined (reading 'delete')
+uncaughtException
+30/9/2023, 4:57:01 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Uncaught Exception/Catch
+TypeError: Cannot read properties of undefined (reading 'delete')
+uncaughtException
+1/10/2023, 7:09:55 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Uncaught Exception/Catch
+TypeError: Cannot read properties of undefined (reading 'delete')
+uncaughtException
+1/10/2023, 7:09:55 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Uncaught Exception/Catch
+TypeError: Cannot read properties of undefined (reading 'send')
+uncaughtException
+1/10/2023, 9:16:03 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Uncaught Exception/Catch
+TypeError: Cannot read properties of undefined (reading 'send')
+uncaughtException
+1/10/2023, 9:16:03 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Uncaught Exception/Catch
+TypeError: Cannot read properties of undefined (reading 'send')
+uncaughtException
+1/10/2023, 9:16:03 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Uncaught Exception/Catch
+TypeError: Cannot read properties of undefined (reading 'send')
+uncaughtException
+1/10/2023, 9:16:03 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Uncaught Exception/Catch
+TypeError: Cannot read properties of undefined (reading 'send')
+uncaughtException
+2/10/2023, 12:30:02 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Uncaught Exception/Catch
+TypeError: Cannot read properties of undefined (reading 'delete')
+uncaughtException
+2/10/2023, 12:30:02 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Uncaught Exception/Catch
+TypeError: Cannot read properties of undefined (reading 'send')
+uncaughtException
+2/10/2023, 12:46:16 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Uncaught Exception/Catch
+TypeError: Cannot read properties of undefined (reading 'delete')
+uncaughtException
+2/10/2023, 12:46:16 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Uncaught Exception/Catch
+TypeError: Cannot read properties of undefined (reading 'send')
+uncaughtException
+2/10/2023, 1:29:35 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Uncaught Exception/Catch
+TypeError: Cannot read properties of undefined (reading 'send')
+uncaughtException
+2/10/2023, 8:52:29 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Uncaught Exception/Catch
+TypeError: Cannot read properties of undefined (reading 'send')
+uncaughtException
+13/11/2023, 9:39:45 am
+------------------------------------------------------------------------
